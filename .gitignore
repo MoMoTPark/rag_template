@@ -1,0 +1,9 @@
+.DS_Store
+.snakemake/
+results/
+*__pycache__
+logs/
+benchmarks/
+*.vscode
+*.ipynb_checkpoints
+tmp/
